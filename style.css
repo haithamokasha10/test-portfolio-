@@ -100,10 +100,10 @@ body {
 .image-container::before {
     content: '';
     position: absolute;
-    top: -5px;
-    left: -5px;
-    right: -5px;
-    bottom: -5px;
+    top: -4px;
+    left: -4px;
+    right: -4px;
+    bottom: -4px;
     background: conic-gradient(
         from var(--angle),
         black,
